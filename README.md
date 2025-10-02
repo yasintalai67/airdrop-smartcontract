@@ -110,5 +110,5 @@ cd airdrop-project
 npm install
 npx hardhat compile
 npx hardhat run scripts/deploy.js --network sepolia
-
+amazing xp
 ---s ready to upload**, so you don’t need to copy each manually?
