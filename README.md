@@ -102,7 +102,7 @@ This project is a simple Ethereum airdrop contract with a frontend interface.
 - Solidity smart contract for distributing ETH
 - Frontend for users to connect their wallet and claim rewards
 - Hardhat for development and deployment
-
+good power
 ## Setup
 ```bash
 git clone https://github.com/YOUR_USERNAME/airdrop-project.git
