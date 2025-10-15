@@ -112,3 +112,4 @@ npx hardhat compile
 npx hardhat run scripts/deploy.js --network sepolia
 M251167m@
 ---s ready to upload**, so you don’t need to copy each manually? https://cloud.google.com/application/web3/faucet/ethereum/sepolia
+good power
