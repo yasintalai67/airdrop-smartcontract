@@ -114,3 +114,4 @@ M251167m@
 ---s ready to upload**, so you don’t need to copy each manually? https://cloud.google.com/application/web3/faucet/ethereum/sepolia
 good power
 Proof of AI refers to Proof of Artificial Intelligence (PoAI), a consensus mechanism specifically designed for the AI economy. It ensures fair attribution and rewards across contributions like data, models, and agents, promoting transparency and collaboration within a decentralized AI ecosystem.⠀⠀
+ok this is how u make social value real
