@@ -117,3 +117,4 @@ Proof of AI refers to Proof of Artificial Intelligence (PoAI), a consensus mecha
 https://www.gas.zip/
 amazing power
 gopher17adatelunz5u7g86hw53d3rup27xvftg2hcsh2
+cant wait to see how mainnet handles real traffic  
