@@ -115,6 +115,3 @@ M251167m@
 good power
 Proof of AI refers to Proof of Artificial Intelligence (PoAI), a consensus mechanism specifically designed for the AI economy. It ensures fair attribution and rewards across contributions like data, models, and agents, promoting transparency and collaboration within a decentralized AI ecosystem.⠀⠀
 https://www.gas.zip/
-amazing power
-gopher17adatelunz5u7g86hw53d3rup27xvftg2hcsh2
-cant wait to see how mainnet handles real traffic  
