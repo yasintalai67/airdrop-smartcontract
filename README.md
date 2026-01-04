@@ -122,3 +122,4 @@ https://testnet.bitverse.zone/app/?token=BTC-USD
 Are you looking for something more organized?
 Are you thinking about launching an online product?
 Just arrived at Camp Haven 🫎🔥 First night by the campfire, roasting marshmallows and sharing stories under the stars ✨ Loving every moment here! @DataHaven_xyz
+You have to reply to the correct tweet to claim this quest!
